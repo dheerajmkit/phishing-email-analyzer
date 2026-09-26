@@ -1,0 +1,12 @@
+From: "PayPal Security" <security@paypa1-secure.com>
+Reply-To: support@paypa1-secure.com
+Return-Path: <bounce@paypa1-secure.com>
+Subject: Urgent: verify your account
+Date: Mon, 22 Sep 2026 09:14:00 -0400
+Message-ID: <abc123@paypa1-secure.com>
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Received: from mail.paypa1-secure.com (unknown [203.0.113.44])
+        by mx.example.com with ESMTP id xyz; Mon, 22 Sep 2026 09:14:01 -0400
+
+Dear customer, please verify your account immediately at
+http://paypa1-secure.com/verify to avoid suspension.

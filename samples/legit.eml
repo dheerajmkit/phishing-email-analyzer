@@ -1,0 +1,11 @@
+From: "Acme IT" <it@acme.example.com>
+Return-Path: <it@acme.example.com>
+Subject: Scheduled maintenance window
+Date: Mon, 22 Sep 2026 08:00:00 -0400
+Message-ID: <def456@acme.example.com>
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Received: from mail.acme.example.com (mail.acme.example.com [198.51.100.7])
+        by mx.example.com with ESMTP id uvw; Mon, 22 Sep 2026 08:00:01 -0400
+
+Reminder: maintenance window tonight 22:00-23:00 ET. Details at
+https://intranet.acme.example.com/maintenance.
